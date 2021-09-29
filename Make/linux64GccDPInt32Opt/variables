@@ -1,0 +1,1 @@
+LIB = $(FOAM_USER_LIBBIN)/libcontrolled6DoFMotion_v2
